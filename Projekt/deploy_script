@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /<path>/<to>/<bbndk>/BB10SDK/host_10_0_9_404/linux/x86/usr/bin
+./blackberry-deploy -installApp -launchApp <IP to Dev Alpha Device> -password <my_password> /<path>/<to>/Freiertag.bar

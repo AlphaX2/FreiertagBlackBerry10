@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Neujahr
+DTSTART;VALUE=DATE:20140101
+DTEND;VALUE=DATE:20140102
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Neujahr ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Neujahr-Hamburg-201401011239677898@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Karfreitag
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Karfreitag ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Karfreitag-Hamburg-201404181248715331@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Ostermontag
+DTSTART;VALUE=DATE:20140421
+DTEND;VALUE=DATE:20140422
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Ostermontag ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Ostermontag-Hamburg-201404211183022052@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Arbeit
+DTSTART;VALUE=DATE:20140501
+DTEND;VALUE=DATE:20140502
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Arbeit ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Arbeit-Hamburg-201405011146504987@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Christi Himmelfahrt
+DTSTART;VALUE=DATE:20140529
+DTEND;VALUE=DATE:20140530
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Christi Himmelfahrt ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Christi Himmelfahrt-Hamburg-201405291294292543@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Pfingstmontag
+DTSTART;VALUE=DATE:20140609
+DTEND;VALUE=DATE:20140610
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Pfingstmontag ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Pfingstmontag-Hamburg-201406091074667613@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Deutschen Einheit
+DTSTART;VALUE=DATE:20141003
+DTEND;VALUE=DATE:20141004
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Deutschen Einheit ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Deutschen Einheit-Hamburg-201410031046856637@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:1. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20141225
+DTEND;VALUE=DATE:20141226
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:1. Weihnachtsfeiertag ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:1. Weihnachtsfeiertag-Hamburg-201412251282415771@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:2. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20141226
+DTEND;VALUE=DATE:20141227
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:2. Weihnachtsfeiertag ist gesetzlicher Feiertag in Hamburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:2. Weihnachtsfeiertag-Hamburg-201412261215484124@schulferien.org
+END:VEVENT
+END:VCALENDAR

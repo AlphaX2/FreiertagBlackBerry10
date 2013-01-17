@@ -1,0 +1,113 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Neujahr
+DTSTART;VALUE=DATE:20140101
+DTEND;VALUE=DATE:20140102
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Neujahr ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Neujahr-Berlin-201401011316892496@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Karfreitag
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Karfreitag ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Karfreitag-Berlin-201404181045577212@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Ostermontag
+DTSTART;VALUE=DATE:20140421
+DTEND;VALUE=DATE:20140422
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Ostermontag ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Ostermontag-Berlin-201404211301710968@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Arbeit
+DTSTART;VALUE=DATE:20140501
+DTEND;VALUE=DATE:20140502
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Arbeit ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Arbeit-Berlin-201405011310417057@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Christi Himmelfahrt
+DTSTART;VALUE=DATE:20140529
+DTEND;VALUE=DATE:20140530
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Christi Himmelfahrt ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Christi Himmelfahrt-Berlin-201405291398188636@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Pfingstmontag
+DTSTART;VALUE=DATE:20140609
+DTEND;VALUE=DATE:20140610
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Pfingstmontag ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Pfingstmontag-Berlin-201406091140816510@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Deutschen Einheit
+DTSTART;VALUE=DATE:20141003
+DTEND;VALUE=DATE:20141004
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Deutschen Einheit ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Deutschen Einheit-Berlin-201410031217701622@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:1. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20141225
+DTEND;VALUE=DATE:20141226
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:1. Weihnachtsfeiertag ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:1. Weihnachtsfeiertag-Berlin-201412251085111320@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:2. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20141226
+DTEND;VALUE=DATE:20141227
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:2. Weihnachtsfeiertag ist gesetzlicher Feiertag in Berlin. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:2. Weihnachtsfeiertag-Berlin-201412261307543122@schulferien.org
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,149 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Neujahr
+DTSTART;VALUE=DATE:20150101
+DTEND;VALUE=DATE:20150102
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Neujahr ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Neujahr-Baden_Wuerttemberg-201501011031821177@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Heilige Drei Koenige
+DTSTART;VALUE=DATE:20150106
+DTEND;VALUE=DATE:20150107
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Heilige Drei Koenige ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Heilige Drei Koenige-Baden_Wuerttemberg-201501061059549872@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Karfreitag
+DTSTART;VALUE=DATE:20150403
+DTEND;VALUE=DATE:20150404
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Karfreitag ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Karfreitag-Baden_Wuerttemberg-201504031360667172@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Ostermontag
+DTSTART;VALUE=DATE:20150406
+DTEND;VALUE=DATE:20150407
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Ostermontag ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Ostermontag-Baden_Wuerttemberg-201504061015350915@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Arbeit
+DTSTART;VALUE=DATE:20150501
+DTEND;VALUE=DATE:20150502
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Arbeit ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Arbeit-Baden_Wuerttemberg-201505011347896400@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Christi Himmelfahrt
+DTSTART;VALUE=DATE:20150514
+DTEND;VALUE=DATE:20150515
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Christi Himmelfahrt ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Christi Himmelfahrt-Baden_Wuerttemberg-201505141130784236@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Pfingstmontag
+DTSTART;VALUE=DATE:20150525
+DTEND;VALUE=DATE:20150526
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Pfingstmontag ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Pfingstmontag-Baden_Wuerttemberg-201505251293768721@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Fronleichnam
+DTSTART;VALUE=DATE:20150604
+DTEND;VALUE=DATE:20150605
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Fronleichnam ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Fronleichnam-Baden_Wuerttemberg-201506041318311200@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Deutschen Einheit
+DTSTART;VALUE=DATE:20151003
+DTEND;VALUE=DATE:20151004
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Deutschen Einheit ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Deutschen Einheit-Baden_Wuerttemberg-201510031100356059@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Allerheiligen
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Allerheiligen ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Allerheiligen-Baden_Wuerttemberg-201511011243996300@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:1. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:1. Weihnachtsfeiertag ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:1. Weihnachtsfeiertag-Baden_Wuerttemberg-201512251101362168@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:2. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20151226
+DTEND;VALUE=DATE:20151227
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:2. Weihnachtsfeiertag ist gesetzlicher Feiertag in Baden-Wuerttemberg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:2. Weihnachtsfeiertag-Baden_Wuerttemberg-201512261329830237@schulferien.org
+END:VEVENT
+END:VCALENDAR

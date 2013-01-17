@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+METHOD:PUBLISH
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Neujahr
+DTSTART;VALUE=DATE:20140101
+DTEND;VALUE=DATE:20140102
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Neujahr ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Neujahr-Brandenburg-201401011232771240@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Karfreitag
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Karfreitag ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Karfreitag-Brandenburg-201404181301670214@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Ostermontag
+DTSTART;VALUE=DATE:20140421
+DTEND;VALUE=DATE:20140422
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Ostermontag ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Ostermontag-Brandenburg-201404211296539191@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Arbeit
+DTSTART;VALUE=DATE:20140501
+DTEND;VALUE=DATE:20140502
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Arbeit ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Arbeit-Brandenburg-201405011211673183@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Christi Himmelfahrt
+DTSTART;VALUE=DATE:20140529
+DTEND;VALUE=DATE:20140530
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Christi Himmelfahrt ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Christi Himmelfahrt-Brandenburg-201405291135998513@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Pfingstmontag
+DTSTART;VALUE=DATE:20140609
+DTEND;VALUE=DATE:20140610
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Pfingstmontag ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Pfingstmontag-Brandenburg-201406091007096301@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Tag der Deutschen Einheit
+DTSTART;VALUE=DATE:20141003
+DTEND;VALUE=DATE:20141004
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Tag der Deutschen Einheit ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Tag der Deutschen Einheit-Brandenburg-201410031051260628@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:Reformationstag
+DTSTART;VALUE=DATE:20141031
+DTEND;VALUE=DATE:20141101
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:Reformationstag ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:Reformationstag-Brandenburg-201410311262126829@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:1. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20141225
+DTEND;VALUE=DATE:20141226
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:1. Weihnachtsfeiertag ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:1. Weihnachtsfeiertag-Brandenburg-201412251359315387@schulferien.org
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120101T145332Z
+LAST-MODIFIED:20120101T145332Z
+DTSTAMP:20120101T145332Z
+SUMMARY:2. Weihnachtsfeiertag
+DTSTART;VALUE=DATE:20141226
+DTEND;VALUE=DATE:20141227
+URL:http://www.schulferien.org/Feiertage
+DESCRIPTION:2. Weihnachtsfeiertag ist gesetzlicher Feiertag in Brandenburg. Alle Termine auf www.schulferien.org/Feiertage
+TRANSP:TRANSPARENT
+UID:2. Weihnachtsfeiertag-Brandenburg-201412261009349168@schulferien.org
+END:VEVENT
+END:VCALENDAR

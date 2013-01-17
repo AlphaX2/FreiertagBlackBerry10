@@ -1,0 +1,28 @@
+#!/bin/sh
+
+NAME=$1
+#MODE=$2
+
+APP_PATH=/<your>/<path>/<to>/Projekt
+TART=/<your>/<path>/<to>/tart
+SDK_PATH=/<your>/<path>/<to>/<bbndk>/host_10_0_9_404/linux/x86/usr/bin
+
+EXE="./blackberry-nativepackager -package $NAME \
+    -configuration Device-Debug \
+    -target bar \
+    -devMode \
+    -buildId 0 \
+    -env PYTHONPATH=app/native \
+    -env PYTHONDONTWRITEBYTECODE=1 \
+    -arg -qml -arg app/native/assets/main.qml \
+    -arg app/native/blackberry_tart.py \
+    bar-descriptor.xml \
+    icon.png \
+    app/ \
+    assets/ \
+    -C $TART/entry $TART/entry/TartStart \
+    -C $TART/js $TART/js/*.js \
+    -C $TART/python $TART/python \
+    -debugToken $APP_PATH/debugtoken.bar"
+
+/bin/sh $SDK_PATH/$EXE
